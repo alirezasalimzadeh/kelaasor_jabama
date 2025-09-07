@@ -19,3 +19,28 @@ hotels/ – List of hotels
 reservations/ – List of reservations with status
 
 transactions/ – List of transactions
+
+
+# 📦 Installation
+Before running the project, make sure you have the essential dependencies installed. These packages handle the Django framework and date conversions for Jalali and Hijri calendars.
+
+🔹 Create & Activate Virtual Environment
+```bash
+python -m venv .venv
+source .venv/bin/activate   # Linux / Mac
+.venv\Scripts\activate      # Windows
+```
+
+🔹 Install Required Packages
+```bash
+pip install Django==5.2.6
+pip install django-jalali==7.4.0 django-jalali-date==2.0.0
+pip install jdatetime==5.2.0
+pip install hijri-converter==2.3.2.post1 hijridate==2.3.0
+```
+
+# 💡 Tip
+You can also install all dependencies (including secondary ones) from requirements.txt:
+```bash
+pip install -r requirements.txt
+```
