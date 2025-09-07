@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Aftab Hotel",
+    "address": "Tehran, Valiasr Street, No. 123",
+    "price": "2,500,000"
+  },
+  {
+    "name": "Coastal Guesthouse",
+    "address": "Bandar Abbas, Sahel Boulevard, Mowj Alley",
+    "price": "1,200,000"
+  },
+  {
+    "name": "Forest Villa",
+    "address": "Ramsar, Javaherdeh Road, Golestan Alley",
+    "price": "3,800,000"
+  }
+]

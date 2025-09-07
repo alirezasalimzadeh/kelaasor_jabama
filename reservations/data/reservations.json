@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Sunrise Hotel",
+    "date": "1404-01-01",
+    "status": null
+  },
+  {
+    "name": "Blue Lagoon Resort",
+    "date": "1404-01-13",
+    "status": null
+  },
+  {
+    "name": "Mountain View Lodge",
+    "date": "1404-03-20",
+    "status": null
+  },
+  {
+    "name": "Seaside Guesthouse",
+    "date": "1404-05-05",
+    "status": null
+  },
+  {
+    "name": "Forest Retreat Cabin",
+    "date": "1404-06-16",
+    "status": null
+  },
+  {
+    "name": "Forest Retreat Cabin",
+    "date": "1404-10-17",
+    "status": null
+  }
+]
